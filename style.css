@@ -38,7 +38,7 @@ body {
 .decision {
   margin-top: 100px;
 }
-.card:hover {
+.card.calon-kahim:hover {
   background-color: #001688;
   color: white;
 }
